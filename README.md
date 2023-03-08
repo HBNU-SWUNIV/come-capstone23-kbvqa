@@ -1,11 +1,11 @@
-# 한밭대학교 OOOO학과 ㅁㅁㅁㅁ팀
+# 한밭대학교 컴퓨터공학과 KBVQA팀
 
 **팀 구성**
-- 20XX0001 김이박 
-- 20XX0002 이박김
-- 20XX0003 박김이
+- 20181796 김민준 
+- 20181620 송승우
+- 20202364 송지현
 
-## <u>Teamate</u> Project Background
+## <u> KBVQA</u> Project Background
 - ### 필요성
   - OOO
   - OOO
