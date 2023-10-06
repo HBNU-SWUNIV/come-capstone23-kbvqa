@@ -22,12 +22,21 @@
 ## System Design
   - ### System Requirements
 Ubuntu 20.04.4 LTS
+
 Python 3.8.10
+
 CUDA 11.6
+
 GPU : NVIDIA A100 80GB x 4
+
 CPU : AMD EPYC 7352 24-Core Processor x 48
+
 Memory : 126G
+
 [[requirements.txt](https://github.com/HBNU-SWUNIV/come-capstone23-kbvqa/blob/main/003%20Code/requirements.txt)]
+
+  - ### Model Architecture
+<img src="https://github.com/HBNU-SWUNIV/come-capstone23-kbvqa/assets/72269271/2f0b0eb0-4190-4c7b-acf4-051ef78982a2" width="500">
 
 ## Case Study
 01. Antol, S.; Agrawal, A.; Lu, J.; Mitchell, M.; Batra, D.; Zitnick,
