@@ -34,25 +34,28 @@ Memory : 126G
 C. L.; and Parikh, D. 2015. Vqa: Visual question answering.
 In Proceedings of the IEEE international conference
 on computer vision, 2425–2433.
-VQA 데이터셋 최초 공개. ResNet과 LSTM 기반의 모델 (외부지식 사용 X)
 
-02. Schwenk, D.; Khandelwal, A.; Clark, C.; Marino, K.; and
+> VQA 데이터셋 최초 공개. ResNet과 LSTM 기반의 모델 (외부지식 사용 X)
+
+2. Schwenk, D.; Khandelwal, A.; Clark, C.; Marino, K.; and
 Mottaghi, R. 2022. A-okvqa: A benchmark for visual
 question answering using world knowledge. In Computer
 Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel,
 October 23–27, 2022, Proceedings, Part VIII, 146–162.
 Springer.
-OK-VQA 데이터셋 공개. Wikipedia corpus를 지식으로 사용하는 VQA 데이터셋
-n-hop, hyper graph 등을 활용하는 방법 기반의 모델
 
-03. Wang, P.; Wu, Q.; Shen, C.; Dick, A.; and van den Hengel,
+> OK-VQA 데이터셋 공개. Wikipedia corpus를 지식으로 사용하는 VQA 데이터셋
+> n-hop, hyper graph 등을 활용하는 방법 기반의 모델
+
+3. Wang, P.; Wu, Q.; Shen, C.; Dick, A.; and van den Hengel,
 A. 2017a. Explicit Knowledge-based Reasoning for Visual
 Question Answering. In Proceedings of the Twenty-Sixth
 International Joint Conference on Artificial Intelligence. International
 Joint Conferences on Artificial Intelligence Organization.
-KVQA 데이터셋 공개. 인물(고유명사)의 정보를 포함하는 Triplet 지식 포함.
-Q-former, QQ-former의 규칙기반의 방법을 통해 외부지식 활용
 
+> KVQA 데이터셋 공개. 인물(고유명사)의 정보를 포함하는 Triplet 지식 포함.
+> Q-former, QQ-former의 규칙기반의 방법을 통해 외부지식 활용
+---
 > 본 프로젝트에서는 위의 기존 연구를 참고하여 한계점을 조사함.
 > 규칙기반으로 triplet을 활용하는 한계점을 개선하여 딥러닝 기반(지식 그래프 임베딩)의 방법을 통해 triplet 외부지식 활용.
   
