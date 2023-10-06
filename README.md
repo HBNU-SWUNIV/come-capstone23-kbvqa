@@ -72,7 +72,8 @@ Joint Conferences on Artificial Intelligence Organization.
   
 ## Project Outcome
 - ### 2023년 KCC "지식 그래프 임베딩을 활용한 시각정보 기반 질의응답"
-- ### 2023년 KCC 우수발표논문상
+- ### 2023년 KCC 우수발표논문상 ()
 - ### 2023년 KCC "Categorical 정보를 활용한 시각기반 질의 생성"
 - ### 2023년 컴퓨팅의실재 논문지(KCI) "(우수발표논문) 지식 그래프 임베딩을 활용한 시각정보 기반 질의응답"
 - ### 2024 AAAI (심사중, 1차심사 합격)
+- ### 2023년 SW중심대학 우수작품 선정
