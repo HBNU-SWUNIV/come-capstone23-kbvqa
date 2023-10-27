@@ -82,5 +82,5 @@ Joint Conferences on Artificial Intelligence Organization.
 ## Project Outcome
 - ### 2023년 정보과학회 학술대회 KCC 논문 3건 출판(2건 우수 발표 논문상 수상) 
 - ### 2023년 컴퓨팅의실재 논문지(KCI) 2건 출판
-- ### 2024 AAAI (심사중, 1차심사 합격)
+- ### AAAI 2024 (심사중, 1차심사 합격)
 - ### 2023년 SW중심대학 우수작품 선정
