@@ -75,7 +75,7 @@ Wenliang Dai and Junnan Li and Dongxu Li and Anthony Meng Huat Tiong and Junqi Z
 - 또한, 이미지-텍스트 paired 데이터를 통해 한국어, 영어 모두 visual instruction tuning을 진행했다.
   
 ## Project Outcome
+- ### Our paper "BOK-VQA: Bilingual Outside Knowledge-based Visual Question Answering via Graph Representation Pretraining" is accepted to Thirty-Eighth AAAI Conference on Artificial Intelligence(AAAI2024).
 - ### 2023년 정보과학회 학술대회 KCC 논문 3건 출판(2건 우수 발표 논문상 수상) 
 - ### 2023년 컴퓨팅의실재 논문지(KCI) 2건 출판
-- ### AAAI 2024 (심사중, 1차심사 합격)
 - ### 2023년 SW중심대학 우수작품 선정
