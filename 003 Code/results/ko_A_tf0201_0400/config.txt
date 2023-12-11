@@ -1,2 +1,0 @@
-Namespace(batch_size=256, focal_gamma=2.0, lang='ko', lr=3e-05, max_token=50, n_epoch=31, train_data='A', use_focal=False, use_transformer_layer=True, use_weight=False, weight_decay=0.001)
-Train : [Image, Question], Target : [Answer]
