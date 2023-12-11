@@ -61,12 +61,16 @@ pip install -r requirements.txt
 First, we need to train the KGE before training the VQA model.
 
 ```bash
+cd KGE-train
 python kge_convkb_train.py 
 ```
 
 When the end of the training, you'll find the saved files in the `kge_save` directory.
 
 ## 4. Train the VQA model
+```bash
+cd BOK-VQA-train
+```
 
 * To train the BASELINE model, use the following command:
 
@@ -118,6 +122,9 @@ The default value of `fold` is 1
 After training, you can find the saved VQA model file in the saved_model directory.
 
 ## 5. Test
+```bash
+cd BOK-VQA-test
+```
 
 * To test the BASELINE model, use the following command:
 ```bash
